@@ -1,5 +1,5 @@
 <div align=center>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=120&section=header&text=Choi%20Yong%20Hoon&fontSize=60" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=120&section=header&text=Yong%20Hoon&fontSize=60" />
 </div>
 
 
@@ -10,13 +10,14 @@
 
 
 
-
+<!-- https://simpleicons.org/ -->
 
 <div align=center><h1>📚 STACKS</h1></div>
 <br>
 <div align=center>
  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
+ <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white"/>
  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css&logoColor=white" /> 
  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>  
@@ -35,26 +36,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yongarframe" />
 
-#### 📚 ~ 25.8.25 Frontend 교육 중 입니다.
 
-<details>
-
-  
-| 항목               | 상태       | 비고                                |
-|--------------------|------------|-------------------------------------|
-| HTML/CSS           | ✅ 완료     | 기초 문법                           |
-| JavaScript         | ✅ 완료     | ES6 문법, DOM 조작 등              |
-| React              | ✅ 완료     | 컴포넌트, 상태 관리 등             |
-| 상태관리 라이브러리 | ✅ 완료     | Redux/RTK, Zustand, Recoil         |
-| Tailwind CSS       | ✅ 완료     |                                     |
-| Next.js            | ✅ 완료     | App Router 및 SSR 학습             |
-| Node.js            | 🟡 진행 중  | HTTP, axios, express, 쿠키, OAuth  |
-| 데이터베이스       | 🔜 예정     |                                     |
-| AWS                | 🔜 예정     |                                     |
-| TypeScript         | 🔜 예정     |                                     |
-| React Native       | 🔜 예정     |                                     |
-
-</details>
 
 
 
